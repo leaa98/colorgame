@@ -1,0 +1,52 @@
+.square1 {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom:30%;
+    background-color: blue;
+    margin: 1.66px;
+
+    
+}
+
+.container {
+
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: rgb(35, 35, 35);
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+}
+
+
+
+#div-message {
+    min-width: 100%;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.575);
+}
+
+.message{
+    color: white;
+}
+
+.hide{
+
+    display: none;
+
+}
+
+.square{
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding:0;
+    background-color: blue;
+    margin: 1.66px;
+}
